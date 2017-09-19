@@ -1,4 +1,3 @@
-dist : precise
 language: "perl"
 
 perl:
@@ -49,4 +48,4 @@ notifications:
     on_success: always
     on_failure: always
   slack:
-    secure: gTcWzQsVHKPxRJ1u0U2l2+QVujmG1uFW44kAO3l46V5Im5uLTOLeM20ykk6ox4kaPHLs5ky7NGzcJmTDLaHBKjI4Sa34l4tJd0lhkv+hKj9TSv5pDDCdUX8v869Nm8LqJKh26HqvVcN7eHFRatLD/tfYvvkaP1rLLhwLLdr7czQ=
+    secure: UwWJYos797JsGcdw1BUgn3ScjfMc++RGbZSXeC2ulgkdDSPpazs56290E4qVxDtFKR5UAFkOgvWM+WjkGd+KYrBRgW0Xbddbv6ioMp9YPjVRc9RgwVm+Ih8wsbcXksTDXM49AsmNfVtar8m03XQPhCBKJdkus6U4ThFYx+DPlwc//RJp4WLqVLNK0ov9IeJmRGQ+8JOqyAxIr3uOvCTjM/f6Dqk6JloKb7x36eE/UT1Dg8BnsxwxrwBr8AFgOcpiqhAcO8P3arkaJo1PV+4GKaCweKzSwNs79A4HA1qmcaRT7zRmFj9ABdGSRbkvqN9+xUcEa/EDnQ7M3qMAnsZDbqEePyDlZqw2rL38cMOagFccevdV+G9/HLaWgdkfkoS3mNqqNmBS4ptvlc6lo7YylKHU2WuIhT7PoiVxEESXj3nK57rDWRMppe2Lp8ctIoYt7POzvqHVEtyJiqVhrEk32GEQXLZMT0HjrrO9nzpo9Uhh6phEPWmxRAWmZRRTOV8nktJUwxdbxxbKvDPITD/iEilKIhxY9LBWo5lrABmb2ZJrD527hbLDZYPJ5kKeygqeZ/NfPk46FJ8g4DOIT+IJSm4H1OMHyRlRWlTVxtiEdBzL62W+kqkl2WIxF2C23JdBq679xWOkHqhjli/sntawOFfZ5yGN+R7lD/Ivu/XR00k=
